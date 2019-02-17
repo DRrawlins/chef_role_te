@@ -9,7 +9,3 @@ gem 'kitchen-vagrant', '~> 1.4.0'
 gem 'foodcritic'
 gem 'cookstyle'
 gem 'chefspec'
-gem 'rbnacl', '< 5.0', :require => false
-gem 'rbnacl-libsodium', :require => false
-gem 'bcrypt_pbkdf', '< 2.0', :require => false
-gem 'inspec'
