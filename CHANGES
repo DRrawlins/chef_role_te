@@ -1,0 +1,6 @@
+Version 0.1.0
+ - added integration tests
+ - added includes recipe for role, and attributes for recipe cookbooks
+ - added spec folder
+ - initial template commit
+
