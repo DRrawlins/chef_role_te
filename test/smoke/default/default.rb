@@ -1,2 +1,2 @@
-# Cookbook Name:: chef_role_te
+# Cookbook Name:: chef_nexus
 # Test:: default
