@@ -13,3 +13,6 @@ sudo gem pristine ffi --version 1.10.0
 sudo gem pristine jaro_winkler --version 1.5.2
 sudo gem pristine nokogiri --version 1.10.1
 sudo gem pristine unf_ext --version 0.0.7.5
+gem install inspec
+gem install ed25519
+gem install bcrypt_pbkdf

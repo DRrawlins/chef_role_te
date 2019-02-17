@@ -23,3 +23,6 @@ Berksfile.lock
 vendor/
 .zero-knife.rb
 Policyfile.lock.json
+
+# Inspec
+test/smoke/default/inspec.lock
